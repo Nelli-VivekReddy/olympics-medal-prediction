@@ -23,7 +23,7 @@ This project analyzes Olympic medal predictions using historical trends and soci
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/olympic-medal-prediction.git
+   git clone https://github.com/Nelli-VivekReddy/olympic-medal-prediction.git
    cd olympic-medal-prediction
    ```
 2. Install dependencies:
